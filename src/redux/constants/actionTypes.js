@@ -1,0 +1,5 @@
+export const ActionTypes = {
+    SET_TODOS : "SET_TODOS",
+    SELECTED_USER : "SELECTED_USER",
+    REMOVE_SELECTED_USERS:"REMOVE_SELECTED_USERS"
+}
